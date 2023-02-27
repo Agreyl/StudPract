@@ -1,0 +1,9 @@
+C:\Users\stud\source\repos\WSUniversalLib_Kadan\bin\Debug\netstandard2.0\WSUniversalLib_Kadan.deps.json
+C:\Users\stud\source\repos\WSUniversalLib_Kadan\bin\Debug\netstandard2.0\WSUniversalLib_Kadan.dll
+C:\Users\stud\source\repos\WSUniversalLib_Kadan\bin\Debug\netstandard2.0\WSUniversalLib_Kadan.pdb
+C:\Users\stud\source\repos\WSUniversalLib_Kadan\obj\Debug\netstandard2.0\WSUniversalLib_Kadan.csprojAssemblyReference.cache
+C:\Users\stud\source\repos\WSUniversalLib_Kadan\obj\Debug\netstandard2.0\WSUniversalLib_Kadan.AssemblyInfoInputs.cache
+C:\Users\stud\source\repos\WSUniversalLib_Kadan\obj\Debug\netstandard2.0\WSUniversalLib_Kadan.AssemblyInfo.cs
+C:\Users\stud\source\repos\WSUniversalLib_Kadan\obj\Debug\netstandard2.0\WSUniversalLib_Kadan.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\WSUniversalLib_Kadan\obj\Debug\netstandard2.0\WSUniversalLib_Kadan.dll
+C:\Users\stud\source\repos\WSUniversalLib_Kadan\obj\Debug\netstandard2.0\WSUniversalLib_Kadan.pdb

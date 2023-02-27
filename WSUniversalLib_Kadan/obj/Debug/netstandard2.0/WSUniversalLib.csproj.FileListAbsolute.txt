@@ -1,0 +1,9 @@
+C:\Users\stud\source\repos\WSUniversalLib_Kadan\bin\Debug\netstandard2.0\WSUniversalLib.deps.json
+C:\Users\stud\source\repos\WSUniversalLib_Kadan\bin\Debug\netstandard2.0\WSUniversalLib.dll
+C:\Users\stud\source\repos\WSUniversalLib_Kadan\bin\Debug\netstandard2.0\WSUniversalLib.pdb
+C:\Users\stud\source\repos\WSUniversalLib_Kadan\obj\Debug\netstandard2.0\WSUniversalLib.csprojAssemblyReference.cache
+C:\Users\stud\source\repos\WSUniversalLib_Kadan\obj\Debug\netstandard2.0\WSUniversalLib.AssemblyInfoInputs.cache
+C:\Users\stud\source\repos\WSUniversalLib_Kadan\obj\Debug\netstandard2.0\WSUniversalLib.AssemblyInfo.cs
+C:\Users\stud\source\repos\WSUniversalLib_Kadan\obj\Debug\netstandard2.0\WSUniversalLib.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\WSUniversalLib_Kadan\obj\Debug\netstandard2.0\WSUniversalLib.dll
+C:\Users\stud\source\repos\WSUniversalLib_Kadan\obj\Debug\netstandard2.0\WSUniversalLib.pdb
